@@ -1,6 +1,5 @@
 ---
-_schema: default
-title: Home
+title: Features
 seo:
   page_description:
   canonical_url:
@@ -10,53 +9,25 @@ seo:
   open_graph_type:
   no_index: false
 content_blocks:
-  - _bookshop_name: home/hero
+  - _bookshop_name: feature/hero
     title: The Easy-to-Use Inventory App
-    description: >-
-      Flip Inventory is a modern mobile app, where small businesses create visibility into their Inventory by Tracking items and managing Orders.
-    image: /images/hero/hero-image-2.png
-    image_alt: Reports dashboard
+    description: Flip Inventory is a modern mobile app, where we create a seemless Inventory management experience for small businesses.
     button:
+      link: /signup
       text: Try This Free
-      link: /signup/
-  - _bookshop_name: global/counter
-    title: Create
-    title_suffix: Visibility
-    description: >-
-      Flip Inventory is the most complete solution to stay on top of your inventory, manage orders and partners. Drive greater visibility into your business.
-    alternate_style: false
-    numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - prefix:
-        number: 2016
-        suffix:
-        text: Established in
-      - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
-      - prefix:
-        number: 4322
-        suffix: +
-        text: Active users and growing
-  - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
-    image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
+    image: /images/feature/feature-hero.png
+    image_alt: Charts
+
   - _bookshop_name: global/header
     title: "Flip Inventory "
     title_suffix: Features
-    remove_top_padding: true
-    description: >-
-      Our App offers the most advanced features including BOM, Order fullfilment and Analytics.
+    description: Flip Inventory is the most complete solution to stay on top of your inventory, manage orders and partners. Drive greater visibility into your business.
+
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
     title: Track Inventory Levels
-    description: "Track your inventory levels for multiple warehouses. Get alerted when an item reaches minimum levels. Easily adjust your actual stock count."
+    description: "Track your inventory levels for multiple warehouses. Get alerted when an item reaches minimum levels. Easily adjust your actual count."
     button:
       link: /signup
       text: Try This Free
@@ -81,4 +52,5 @@ content_blocks:
       link: /signup
       text: Try This Free
     reversed: false
+
 ---

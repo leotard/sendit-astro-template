@@ -48,10 +48,12 @@ export default function Navigation({ pageUrl }) {
           className={`navbar navbar-expand-lg position-fixed w-100 zindex-dropdown${isSticky ? " sticky-nav" : ""}`}
           id="mainnavigationBar"
         >
+
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               <img src={navigation.logo} alt="Nav-Logo" />
             </a>
+                  
             <button
               className="navbar-toggler"
               type="button"
@@ -165,12 +167,18 @@ export default function Navigation({ pageUrl }) {
               ))}
             </ul>
           </div>
-          <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
-                <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="115" height="auto" alt="PlayStore Logo"></img>
-              </a>
-              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
-                <img src="/images/app-store-badge.svg" width="90" height="auto" alt="AppleStore Logo"></img>
-              </a>
+          <div className="Row" style={{padding: "0rem", display:"flex"}}>
+              <div className="p-3 float-left">
+                <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                  <img src="/images/playstore.svg" width="30" height="auto" alt="PlayStore Logo"></img>
+                </a>
+              </div>
+              <div className="p-3 float-left">
+                <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                  <img src="/images/apple_logo_black.svg" width="25" height="auto" alt="AppleStore Logo"></img>
+                </a>
+              </div>
+            </div>        
         </div>
         </nav>
       </header>

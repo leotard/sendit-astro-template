@@ -15,15 +15,12 @@ export default function FeatureHero(block) {
                 }}
               />
               <div className="d-block mb-6">
-                {block.button && (
-                  <a
-                    href={block.button.link}
-                    className="btn btn-primary btn-lg"
-                  >
-                    {" "}
-                    {block.button.text}{" "}
-                  </a>
-                )}
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="180" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="/images/app-store-badge.svg" width="140" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
               </div>
             </div>
           </div>

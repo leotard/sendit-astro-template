@@ -8,12 +8,6 @@
       "dropdown": []
     },
     {
-      "text": "Features",
-      "link": "/features/",
-      "enable_dropdown": false,
-      "dropdown": []
-    },
-    {
       "text": "Pricing",
       "link": "/pricing/",
       "enable_dropdown": false,
