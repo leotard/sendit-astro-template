@@ -24,12 +24,12 @@ export default function GlobalFeature(block) {
                 }}
               />
               <div className="Learn-more">
-                {block.button && (
-                  <a href={block.button.link}>
-                    {block.button.text}
-                    <i className="ph-arrow-right"></i>
-                  </a>
-                )}
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="180" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="/images/app-store-badge.svg" width="140" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
               </div>
             </div>
           </div>
@@ -49,12 +49,12 @@ export default function GlobalFeature(block) {
                 }}
               />
               <div className="Learn-more">
-                {block.button && (
-                  <a href={block.button.link}>
-                    {block.button.text}
-                    <i className="ph-arrow-right"></i>
-                  </a>
-                )}
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="180" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="/images/app-store-badge.svg" width="140" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
               </div>
             </div>
           </div>

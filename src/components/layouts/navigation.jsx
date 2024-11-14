@@ -165,20 +165,12 @@ export default function Navigation({ pageUrl }) {
               ))}
             </ul>
           </div>
-          { navigation.enable_nav_btn ? (
-            <>
-            <div className="d-none d-lg-block">
-              <div className="nav-item">
-                <a
-                  href={`${navigation.nav_btn?.link}`}
-                  className="btn btn-sm btn-links"
-                >
-                  {navigation.nav_btn?.text}
-                </a>
-              </div>
-            </div>
-            </>
-          ) : null }
+          <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="115" height="auto" alt="PlayStore Logo"></img>
+              </a>
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="/images/app-store-badge.svg" width="90" height="auto" alt="AppleStore Logo"></img>
+              </a>
         </div>
         </nav>
       </header>

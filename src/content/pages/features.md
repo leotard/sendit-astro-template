@@ -10,8 +10,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: feature/hero
-    title: Run the best campaigns
-    description: Sendit will change the way you think about email and marketing automation.
+    title: The Easy-to-Use Inventory App
+    description: Flip Inventory is a modern mobile app, where we create a seemless Inventory management experience for small businesses.
     button:
       link: /signup
       text: Try This Free
@@ -19,15 +19,15 @@ content_blocks:
     image_alt: Charts
 
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: "Flip Inventory "
     title_suffix: Features
-    description: Sendit is the most complete solution to create beautiful email designs, manage mails and send them out at the best price.
+    description: Flip Inventory is the most complete solution to stay on top of your inventory, manage orders and partners. Drive greater visibility into your business.
 
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: Simply click and send
-    description: "Make your message stand out, thanks to the guided copywriting and design features, triggering a positive response from your customers."
+    title: Track Inventory Levels
+    description: "Track your inventory levels for multiple warehouses. Get alerted when an item reaches minimum levels. Easily adjust your actual count."
     button:
       link: /signup
       text: Try This Free
@@ -36,8 +36,8 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-two.png
     image_alt: Visitor chart
-    title: See every lead in one place
-    description: "Sales analytics and automation made simple: see every sales lead in one place, regardless of where it came from."
+    title: Order Fulfillment & invoicing
+    description: "Create and assign oders (sales & purchase). Process item by item. When completed, we will automatically update items quantities for you."
     button:
       link: /signup
       text: Try This Free
@@ -46,8 +46,8 @@ content_blocks:
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-three.png
     image_alt: Upload box
-    title: Free templates to get you started
-    description: "Sendit is used by everyone from small businesses to fortune 500 companies. Browse our collection of email marketing templates and start sending beautiful emails in minutes."
+    title: Bill-Of-Materials
+    description: "Manufaturing products and need to track materials ? Flip got you covered. Just create the product and link all its materials and quantities required."
     button:
       link: /signup
       text: Try This Free
@@ -56,7 +56,7 @@ content_blocks:
   - _bookshop_name: global/testimonial
     title: Build relationships that
     title_suffix: last
-    description: Customers from around the world are building game changing email marketing campaigns.
+    description: Flip let you create suppliers and customers so you can better handle your operations.
     slider:
       - image: /images/testimonial/logo-2.jpg
         image_alt: Profile photo of Pete Fish

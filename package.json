@@ -23,7 +23,9 @@
     "astro": "^2.4.5",
     "punycode": "^2.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-mobile-app-button": "^1.2.18",
+    "react-mobile-store-button": "^0.0.6"
   },
   "devDependencies": {
     "@astrojs/rss": "^1.0.3",

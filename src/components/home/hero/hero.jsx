@@ -1,7 +1,11 @@
 import MarkdownIt from "markdown-it";
+import MobileStoreButton from 'react-mobile-store-button';
+
 const md = new MarkdownIt({ html: true });
 
 export default function HomeHero(block) {
+  const APKUrl = "https://play.google.com/store/apps/details?id=host";
+  const IOSUrl = "https://apps.apple.com/us/app/expo-go/id982107779";
   return (
     <section className="hero-two">
       <div className="hero-two-shape"></div>
@@ -16,17 +20,12 @@ export default function HomeHero(block) {
                   __html: md.render(block.description),
                 }}
               />
-              <div className="">
-                {block.button && (
-                  <a
-                    href={block.button.link}
-                    className="btn btn-primary btn-lg"
-                  >
-                    {" "}
-                    {block.button.text}{" "}
-                  </a>
-                )}
-              </div>
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="180" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
+              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <img src="/images/app-store-badge.svg" width="140" height="auto" alt="Websolutionstuff logo"></img>
+              </a>
             </div>
           </div>
           <div className="col-lg-6">

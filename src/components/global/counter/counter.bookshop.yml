@@ -11,13 +11,17 @@ spec:
 blueprint:
   title: "Design for your"
   title_suffix: "Business"
-  description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
-  alternate_style: false
-  numbers:
-    - prefix: "$"
-      number: 300
-      suffix: "m"
-      text: "Venture capital raised"
+  description: We believe that a good inventory management is the key to scaling your business. So we’re helping you grow your business with tools and resources that make inventory management easy.
+  button:
+    link: /signup
+    text: Try This Free
+  reversed: false
+#  alternate_style: false
+#  numbers:
+#    - prefix: "$"
+#      number: 300
+#      suffix: "m"
+#      text: "Venture capital raised"
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

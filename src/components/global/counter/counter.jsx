@@ -23,28 +23,6 @@ export default function GlobalCounter(block) {
               />
             </div>
           </div>
-          <div className="col-12">
-            <div className="counter-up-wrapper d-grid">
-              {block.numbers.map((number, i) => (
-                <div className="counter-up-content" key={i}>
-                  <div className="counter-up-content-item">
-                    <div className="counter-percent">
-                      {number.prefix && (
-                        <span className="percent">{number.prefix}</span>
-                      )}
-
-                      <span className="counter">{number.number}</span>
-
-                      {number.suffix && (
-                        <span className="percent">{number.suffix}</span>
-                      )}
-                    </div>
-                    <p>{number.text}</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
         </div>
       </div>
     </section>
