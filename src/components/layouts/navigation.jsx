@@ -169,12 +169,12 @@ export default function Navigation({ pageUrl }) {
           </div>
           <div className="Row" style={{padding: "0rem", display:"flex"}}>
               <div className="p-3 float-left">
-                <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
                   <img src="/images/playstore.svg" width="30" height="auto" alt="PlayStore Logo"></img>
                 </a>
               </div>
               <div className="p-3 float-left">
-                <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
+                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
                   <img src="/images/apple_logo_black.svg" width="25" height="auto" alt="AppleStore Logo"></img>
                 </a>
               </div>

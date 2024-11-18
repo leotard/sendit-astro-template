@@ -14,14 +14,18 @@ export default function FeatureHero(block) {
                   __html: md.render(block.description),
                 }}
               />
-              <div className="d-block mb-6">
-              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
-                <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="180" height="auto" alt="Websolutionstuff logo"></img>
-              </a>
-              <a href="https://websolutionstuff.com" target="_blank" rel="noreferrer">
-                <img src="/images/app-store-badge.svg" width="140" height="auto" alt="Websolutionstuff logo"></img>
-              </a>
+              <div className="Row" style={{padding: "0rem", display:"flex"}}>
+              <div className="p-3 float-left">
+                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
+                  <img src="/images/google-play-badge.svg" width="170" height="auto" alt="PlayStore Logo"></img>
+                </a>
               </div>
+              <div className="p-3 float-left">
+                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
+                  <img src="/images/app-store-badge.svg" width="155" height="auto" alt="AppleStore Logo"></img>
+                </a>
+              </div>
+            </div>        
             </div>
           </div>
           <div className="col-lg-6">

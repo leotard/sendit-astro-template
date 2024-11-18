@@ -10,8 +10,32 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   terms_and_conditions:
-    - heading: Sendit Terms And Conditions
-      description: "<p>By using Sendit, you agree to the terms and conditions listed on this page.</p><p>Sendit may change the terms on this page. We will take steps to notify you when this occurs, but you are responsible for staying up-to-date with these changes.</p>"
+    - heading: Flip Inventory Terms And Conditions
+      description: |
+        <h2>1. Introduction</h2>
+        <p>Welcome to <strong>Flip Inventory</strong>, a mobile application designed to help businesses manage inventory by creating items, tracking stock, uploading images, and generating orders and invoices. By using our app, you agree to comply with these Terms and Conditions.</p>
+        <h2>2. User Accounts</h2>
+        <p>To use Flip Inventory, users must create an account by providing a name, profile picture, and other required information. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.</p>
+        <h2>3. Account Use</h2>
+        <p>You may use Flip Inventory only for lawful purposes and in accordance with our Acceptable Use Policy. You agree not to misuse the app by: uploading content that infringes on intellectual property rights, engaging in fraudulent or illegal activities, or distributing harmful software or malicious code.</p>
+        <h2>4. Inventory Management</h2>
+        <p>Flip Inventory provides tools for creating inventory items, tracking stock, uploading images, and managing orders and invoices. You are responsible for the accuracy of the data you input into the app. We do not guarantee the accuracy or completeness of inventory tracking or any other features.</p>
+        <h2>5. Orders and Invoices</h2>
+        <p>Users can create orders and invoices within the app. You are responsible for ensuring the accuracy of order details, including prices, stock counts, and any other information related to the transaction.</p>
+        <h2>6. Payment and Fees</h2>
+        <p>If applicable, certain premium features may require payment. All fees will be outlined in the app and are subject to change at any time. You agree to pay for any premium services as they become due.</p>
+        <h2>7. User Content</h2>
+        <p>You retain ownership of any content you upload, including inventory images, product descriptions, and other data. However, by using Flip Inventory, you grant us a non-exclusive, worldwide, royalty-free license to use, display, and store your content for the purposes of providing the service.</p>
+        <h2>8. Privacy and Data Collection</h2>
+        <p>Please refer to our <a href="privacy-policy.html">Privacy Policy</a> for details about how we collect, use, and protect your personal data.</p>
+        <h2>9. Termination</h2>
+        <p>We reserve the right to suspend or terminate your account if you violate these Terms and Conditions, without notice.</p>
+        <h2>10. Limitation of Liability</h2>
+        <p>Flip Inventory is not liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use the app, including any loss of data.</p>
+        <h2>11. Changes to the Terms</h2>
+        <p>We may update these Terms from time to time. You will be notified of significant changes, and the updated terms will be posted on the app or website.</p>
+        <h2>12. Governing Law</h2>
+        <p>These Terms are governed by the laws of [insert jurisdiction], and any disputes will be resolved in the appropriate courts of that jurisdiction.</p>
     - heading: Account Information & Payments
       description: "<ul><li>Fees must be paid at or before the date specified in your payment plan.</li><li>Failure to pay account fees may result in restricted or suspended access to your Sendit account.</li></ul>"
 

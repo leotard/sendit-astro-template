@@ -1,6 +1,7 @@
 [
-    "marketing",
+    "inventory",
     "blog",
-    "technology",
-    "email"
+    "overstocking",
+    "stockouts",
+    "orders"
 ]

@@ -14,12 +14,6 @@
       "dropdown": []
     },
     {
-      "text": "About",
-      "link": "/about/",
-      "enable_dropdown": false,
-      "dropdown": []
-    },
-    {
       "text": "Blog",
       "link": "/blog/",
       "enable_dropdown": true,
@@ -29,12 +23,20 @@
           "dropdown_link": "/blog"
         },
         {
-          "dropdown_text": "Marketing",
-          "dropdown_link": "/tags/marketing/"
+          "dropdown_text": "Inventory",
+          "dropdown_link": "/tags/inventory/"
         },
         {
-          "dropdown_text": "Technology",
-          "dropdown_link": "/tags/technology/"
+          "dropdown_text": "Overstocking",
+          "dropdown_link": "/tags/overstocking/"
+        },
+        {
+          "dropdown_text": "Stockouts",
+          "dropdown_link": "/tags/stockouts/"
+        },
+        {
+          "dropdown_text": "Orders",
+          "dropdown_link": "/tags/orders/"
         }
       ]
     },

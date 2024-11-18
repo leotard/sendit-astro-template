@@ -61,13 +61,21 @@ export default function PricingTier({ tier }) {
               </li>
             ))}
           </ul>
-          <div className="link">
-            {tier.button && (
-              <a href={tier.button.link} className="btn btn-lg btn-white">
-                {tier.button.text}
-              </a>
-            )}
-          </div>
+          
+          <div className="d-block mb-6">
+          <div className="Row" style={{padding: "0rem", display:"flex"}}>
+              <div className="p-3 float-left">
+                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
+                  <img src="/images/google-play-badge.svg" width="120" height="auto" alt="PlayStore Logo"></img>
+                </a>
+              </div>
+              <div className="p-3 float-left">
+                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
+                  <img src="/images/app-store-badge.svg" width="110" height="auto" alt="AppleStore Logo"></img>
+                </a>
+              </div>
+            </div>       
+              </div>
         </div>
       </div>
     </div>

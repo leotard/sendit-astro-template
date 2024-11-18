@@ -14,12 +14,12 @@ blueprint:
     address: "1421 San Pedro St, Los Angeles, CA 90015"
   phone:
     heading: "Phone"
-    cell: "(546) 232 - 9872"
+    cell: "(5) 232 - 9872"
     image: /images/contact/call-add.svg
     image_alt: call-add
   email:
     heading: "Email"
-    email: "hello@example.com"
+    email: "contact@flipinventory.app"
     image: /images/contact/directbox-send.svg
     image_alt: send-box
   form:

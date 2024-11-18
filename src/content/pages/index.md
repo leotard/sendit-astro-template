@@ -11,7 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: feature/hero
     title: The Easy-to-Use Inventory App
-    description: Flip Inventory is a modern mobile app, where we create a seemless Inventory management experience for small businesses.
+    description: Flip Inventory is a modern mobile app, where we create a seamless Inventory management experience for small businesses.
     button:
       link: /signup
       text: Try This Free

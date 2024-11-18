@@ -23,81 +23,59 @@ content_blocks:
         has_discount: false
         discount_price: 0
         features:
-          - item: 1 Email Campaign
+          - item: 100 product items
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: 100 material items for Bill-of-Materials
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Unlimited Orders
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: 1 User License
             active_feature: true
-          - item: 23+ Templates
+          - item: QR Code Labels Creation
+            active_feature: true            
+          - item: Analytics 
             active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: false
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
         button:
           link: /signup
           text: Try This Free
-      - tier: Pro
+      - tier: Basic
         highlight_tier: true
-        description: More collaborative power and unlimited boards for fast-growing.
+        description: More collaborative power and Order invoicing.
         currency_symbol: $
-        price: 199
+        price: 44
         has_discount: true
-        discount_price: 125
+        discount_price: 34
         features:
-          - item: 1 Email Campaign
+          - item: All Free tier features
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: 500 product items
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: 1000 material items for Bill-of-Materials
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: Order Invoices
             active_feature: true
-          - item: 23+ Templates
+          - item: 2 User Licenses
             active_feature: true
-          - item: Over 800 Section Blocks
+          - item: Role Permissions
             active_feature: true
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
         button:
           link: /signup
           text: Try This Free
       - tier: Business
         highlight_tier: false
-        description: For starters Includes unlimited members
+        description: Best for businesses with large inventory sku count
         currency_symbol: $
-        price: 499
+        price: 114
         has_discount: true
-        discount_price: 350
+        discount_price: 84
         features:
-          - item: 1 Email Campaign
+          - item: All Free & Basic tier features
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: 5 000 product items
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: 15 000 material items for Bill-of-Materials
             active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: true
-          - item: 3 filters
-            active_feature: true
-          - item: Unlimited activity history
+          - item: 8 User Licenses
             active_feature: true
         button:
           link: /signup
@@ -106,16 +84,16 @@ content_blocks:
   - _bookshop_name: global/faq
     title: Have
     title_suffix: Questions?
-    description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
+    description: We believe that a good inventory management strategy is the key to growth. So we’re helping you grow your business with tools and resources that make it easy.
     FAQ:
-      - title: Is there a maximum numbers of emails I can send each month?
-        description: No, the prices include unlimited emails. Send to your heart's content.
+      - title: Is there a maximum numbers of orders I can create?
+        description: No, the prices include unlimited orders. Create to your heart's content.
       - title: Where can I find out more information?
         description: Right here on this website, or contact our support team.
-      - title: Do you have pricing for non-profits?
-        description: Yes, contact our support team and we'll get you set up on our non-profit plan.
+      - title: Do you have pricing for Enterprise?
+        description: Yes, contact our support team and we'll get you set up on our Enterprise plan.
       - title: What forms of payment do you accept?
-        description: We accept credit cards, checks, and cash.
+        description: We accept all type of online payments (e.g. credit cards, ApplePay, GooglePay or Paypal).
       - title: In which currencies can I make payments?
         description: All payments are in **USD**.
 ---

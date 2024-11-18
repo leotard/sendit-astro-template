@@ -11,7 +11,7 @@ spec:
 blueprint:
   title: "We Felt Proud When People Love our"
   title_suffix: "Product"
-  description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
+  description: We believe that a good inventory management strategy is the key to growth. So we’re helping you grow your business with tools and resources that make it easy.
   slider:
     - image: "/images/testimonial/logo-2.jpg"
       image_alt: Profile photo of the Head of Development
