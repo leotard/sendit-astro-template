@@ -25,7 +25,7 @@ draft: false
 
 I’ve met plenty of small business owners who are still tracking inventory with spreadsheets or pen and paper, and while that might work in the short term, it’s not a scalable solution. If you’re reading this, you’re probably wondering whether it’s time to invest in an inventory management system.
 
-Well, after years of managing my own business, I’ve identified five signs that it’s time to make the switch — and if you’re checking any of these boxes, Flip Inventory app might be just the tool you need too.
+Well, after years of managing my own business, I’ve identified five signs that it’s time to make the switch — and if you’re checking any of these boxes, [*Flip Inventory*](https://flipinventory.app/) app might be just the tool you need too.
 
 ### 1. Your Inventory Data is Inaccurate or Outdated
 
