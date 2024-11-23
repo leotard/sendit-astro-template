@@ -9,7 +9,7 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: Email campaigns Features
+  title: Flip inventory Features
   description: We believe that a good inventory management strategy is the key to growth. So we’re helping you grow your business with tools and resources that make it easy.
   button:
     link: /sign-up

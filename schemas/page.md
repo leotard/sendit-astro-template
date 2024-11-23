@@ -10,8 +10,8 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: about/hero
-    title: On a mission to change email marketing
-    description: We're here to breathe new air into email marketing and help grow your business.
+    title: On a mission to change inventory management
+    description: We're here to breathe new air into inventory management and help grow your business.
     hero_images:
       - image: /images/about/aboutfeature-two.jpg
         image_alt: People working on laptops

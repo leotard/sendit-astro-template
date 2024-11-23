@@ -3,7 +3,7 @@ date:
 title: ''
 tags:
   - blog
-author: Gerard Hopper
+author: Leotard Niyonkuru
 thumb_image:
   image: ''
   image_alt: ''

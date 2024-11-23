@@ -11,7 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: pricing/hero
     title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
+    description: We offer yearly plans at half the price of montly plans! All prices are in USD.
 
   - _bookshop_name: pricing/table
     pricing_tier:
@@ -42,9 +42,9 @@ content_blocks:
         highlight_tier: true
         description: More collaborative power and Order invoicing.
         currency_symbol: $
-        price: 44
+        price: 44/mo
         has_discount: true
-        discount_price: 34
+        discount_price: 24/mo
         features:
           - item: All Free tier features
             active_feature: true
@@ -65,9 +65,9 @@ content_blocks:
         highlight_tier: false
         description: Best for businesses with large inventory sku count
         currency_symbol: $
-        price: 114
+        price: 159/mo
         has_discount: true
-        discount_price: 84
+        discount_price: 80/mo
         features:
           - item: All Free & Basic tier features
             active_feature: true

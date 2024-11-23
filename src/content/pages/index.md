@@ -1,5 +1,6 @@
 ---
-title: Features
+_schema: default
+title: Home
 seo:
   page_description:
   canonical_url:

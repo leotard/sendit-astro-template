@@ -1,24 +1,25 @@
 export default function PricingTier({ tier }) {
   let pricing = "";
+  let billedAnnuallyText = "Billed Annually";
+  let billedMontlyText = "Billed Monthly";
   if (tier.has_discount) {
     pricing = (
       <>
         <div className="price">
-          <p className="pricingtable">
-            {tier.currency_symbol}
-            {tier.discount_price}
-          </p>
+          <div className="col-lg-8">
+            <p className="pricingtable">
+              {tier.currency_symbol}
+              {tier.discount_price}
+            </p>
+            <h5>{billedAnnuallyText}</h5>
+          </div>
           <div className="discount">
+          <div className="col-lg-12">
             <p>
               {tier.currency_symbol}
               {tier.price}
             </p>
-            <div className="vector vector-one">
-              <img
-                src="/images/pricing/Vector1.svg"
-                alt="Vector"
-                loading="lazy"
-              />
+            <h5>{billedMontlyText}</h5>
             </div>
           </div>
           <div className="shape-two top-0"></div>
