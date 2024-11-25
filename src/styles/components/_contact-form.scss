@@ -27,6 +27,7 @@
     }
 
     &-content {
+      padding-bottom: $base-padding * 1.5;
       h1 {
         font-size: $base-font-size * 4;
         margin-bottom: $base-margin * 1.5;
@@ -179,19 +180,7 @@
 .contact-hero+.contact {
   .contact-form>form {
     margin-top: -$base-margin * 28.2;
-
-    @include media-breakpoint-down-xl {
-      margin-top: -$base-margin * 22;
-    }
-
-    @include media-breakpoint-down-lg {
-      margin-top: -$base-margin * 17;
-    }
-
-    @include media-breakpoint-down-md {
-      margin-top: -$base-margin * 64;
-    }
-
+    
     @include media-breakpoint-down-sm {
       margin-top: -$base-margin * 63;
     }

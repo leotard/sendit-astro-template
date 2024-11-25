@@ -7,7 +7,7 @@ export default function ContactForm(block) {
             <div className="contact-form-Information">
               <div className="address">
                 <div className="item">
-                  {block.email && (
+                  {(
                     <>
                       <h3>{block.email.heading}</h3>
                       <a href={`mailto:${block.email.email}`}>

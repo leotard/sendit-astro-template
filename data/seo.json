@@ -2,12 +2,12 @@
 	"site_name": "Flip Inventory",
 	"site_title": "Flip Inventory App",
 	"description": "A Modern mobile app, where we create a seemless experience from Inventory Tracking to Order Management.",
-	"author": "",
-	"author_email": "",
+	"author": "Leotard Niyonkuru",
+	"author_email": "support@flipinventory.app",
 	"images": [
 		{
 			"image": "/images/_screenshot.png",
-			"description": "Screenshot for Sendit Template",
+			"description": "Screenshot for Fip Inventory",
 			"height": 0,
 			"width": 0
 		}
