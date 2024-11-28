@@ -2,7 +2,7 @@
 date: 2024-11-15T00:00:00Z
 title: How QR Code Scanning Makes Inventory Management Quick and Effortless
 tags:
-  - QR Code
+  - inventory
   - blog
 author: Leotard Niyonkuru
 thumb_image:

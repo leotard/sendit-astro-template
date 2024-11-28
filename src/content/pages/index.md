@@ -48,7 +48,7 @@ content_blocks:
     image: /images/feature/feature-card-three.png
     image_alt: Upload box
     title: Bill-Of-Materials
-    description: "Manufaturing products and need to track materials ? Flip got you covered. Just create the product and link all its materials and quantities required."
+    description: "Assembling a product and need to track materials ? Flip got you covered. Just create the product and link all its materials and quantities required."
     button:
       link: /signup
       text: Try This Free
