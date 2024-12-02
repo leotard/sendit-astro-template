@@ -10,12 +10,15 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: privacy/hero
-    title: Terms & Conditions
+    title: Terms & Conditions - Privacy Policy
   - _bookshop_name: privacy
     terms_and_conditions:
       - heading: Terms And Conditions
         description: >-
-          <p>By using Flip Inventory, you agree to the terms and conditions listed on this page.</p>
+          <h5> Flip Inventory App downloaded from Apple Store</h5>
+          <p>For any downloaded Flip Inventory app through the Apple Store, click the following link to read the Term of Use agreement: <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">LICENSED APPLICATION END USER LICENSE AGREEMENT</a>.</p>
+          <h5> Flip Inventory App download or used from other distributor other than Apple</h5>
+          <p>By downloading or using Flip Inventory App from any distributor other than Apple, you agree to the terms and conditions listed on this page.</p>
           <p>Flip Inventory may change the terms on this page. We will take steps to notify you
           when this occurs, but you are responsible for staying up-to-date with these changes.</p>
           <h5>1. Introduction</h5>
@@ -40,12 +43,14 @@ content_blocks:
           <p>Flip Inventory is not liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use the app, including any loss of data.</p>
           <h5>11. Changes to the Terms</h5>
           <p>We may update these Terms from time to time. You will be notified of significant changes, and the updated terms will be posted on the app or website.</p>
-          <h5>12. Governing Law</h5>
-          <p>These Terms are governed by the laws of [insert jurisdiction], and any disputes will be resolved in the appropriate courts of that jurisdiction.</p>
+          <h5>12. Third Party Terms of Agreement</h5>
+          <p></p>
+          <h5>13. Governing Law</h5>
+          <p>These Terms are governed by the Canadian Laws and Regulations, and any disputes will be resolved in the appropriate courts of this jurisdiction. If you are a citizen of any European Union country or Switzerland, Norway or Iceland, the governing law and forum shall be the laws and courts of your usual place of residence. Specifically excluded from application to this Agreement is that law known as the United Nations Convention on the International Sale of Goods.</p>
       - heading: Privacy Policy
         description: >-
           <h5>1. Introduction</h5>
-          <p>At <strong>Flip Inventory</strong>, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information.</p>
+          <p>At <strong>Flip Inventory</strong>, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your information. It applies to Flip Inventory App used or download from any platforme including Apple Store and Google Play.</p>
           <h5>2. Information We Collect</h5>
           <p>We collect the following types of personal information when you use Flip Inventory: Profile Information (name, email address, profile picture), Inventory Data (information about the inventory items you create, including images, descriptions, and stock levels), Order and Invoice Data (information related to orders, payments, and invoices created within the app), Device Information (data about the device you use to access Flip Inventory, including IP address, browser type, and operating system).</p>
           <h5>3. How We Use Your Information</h5>
@@ -55,11 +60,11 @@ content_blocks:
           <h5>5. Sharing Your Information</h5>
           <p>We do not sell or share your personal information with third parties, except in the following circumstances: Service Providers (we may share your data with trusted third-party service providers who assist us in operating Flip Inventory and processing payments), Legal Compliance (we may disclose your information to comply with legal obligations, enforce our Terms, or protect the rights and safety of users).</p>
           <h5>6. Your Rights</h5>
-          <p>You have the right to: access, update, or delete your personal information, request a copy of the data we hold about you, and withdraw consent for certain data processing activities (where applicable). To exercise your rights, please contact us at <a href="mailto:contact@flipinventory.com">contact@flipinventory.com</a>.</p>
+          <p>You have the right to: access, update, or delete your personal information, request a copy of the data we hold about you, and withdraw consent for certain data processing activities (where applicable). To exercise your rights, please contact us at <a href="mailto:support@flipinventory.app">support@flipinventory.app</a>.</p>
           <h5>7. Cookies and Tracking Technologies</h5>
           <p>We use cookies and similar technologies to enhance user experience and analyze app usage. You can adjust your browser settings to refuse cookies, but this may affect the functionality of the app.</p>
           <h5>8. Changes to This Privacy Policy</h5>
           <p>We may update this Privacy Policy from time to time. Any changes will be posted within the app or on our website, with an updated effective date.</p>
           <h5>9. Contact Us</h5>
-          <p>If you have any questions or concerns about our Privacy Policy, please contact us at <a href="mailto:contact@flipinventory.com">contact@flipinventory.com</a>.</p>
+          <p>If you have any questions or concerns about our Privacy Policy, please contact us at <a href="mailto:support@flipinventory.app.com">support@flipinventory.app</a>.</p>
 ---
