@@ -16,8 +16,8 @@ content_blocks:
       - heading: Terms And Conditions
         description: >-
           <h5> Flip Inventory App downloaded from Apple Store</h5>
-          <p>For any downloaded Flip Inventory app through the Apple Store, click the following link to read the Term of Use agreement: <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">LICENSED APPLICATION END USER LICENSE AGREEMENT</a>.</p>
-          <h5> Flip Inventory App download or used from other distributor other than Apple</h5>
+          <p>By downloading Flip Inventory iOS App through the Apple Store, you agree to Apple Term of Use detailled in the following link: <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">LICENSED APPLICATION END USER LICENSE AGREEMENT</a>.</p>
+          <h5> Flip Inventory App download or used from any distributor other than Apple</h5>
           <p>By downloading or using Flip Inventory App from any distributor other than Apple, you agree to the terms and conditions listed on this page.</p>
           <p>Flip Inventory may change the terms on this page. We will take steps to notify you
           when this occurs, but you are responsible for staying up-to-date with these changes.</p>
