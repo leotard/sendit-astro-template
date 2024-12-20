@@ -7,7 +7,7 @@ seo:
   featured_image_alt:
   author_twitter_handle:
   open_graph_type:
-  no_index: false
+  no_index: true
 content_blocks:
   - _bookshop_name: about/hero
     title: On a mission to change email marketing
