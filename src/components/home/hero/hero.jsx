@@ -27,7 +27,7 @@ export default function HomeHero(block) {
                 </a>
               </div>
               <div className="p-3 float-left">
-                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
+                <a href="https://apps.apple.com/ca/app/flip-inventory/id6692609544" target="_blank" rel="noreferrer">
                   <img src="/images/app-store-badge.svg" width="155" height="auto" alt="AppleStore Logo"></img>
                 </a>
               </div>
