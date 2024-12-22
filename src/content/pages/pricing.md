@@ -11,7 +11,7 @@ seo:
 content_blocks:
   - _bookshop_name: pricing/hero
     title: A plan for everyone
-    description: We offer yearly plans at half the price of montly plans! All prices are in USD.
+    description: We offer yearly plans at half the price of montly plans! All prices on this page are in USD.
 
   - _bookshop_name: pricing/table
     pricing_tier:
@@ -52,9 +52,9 @@ content_blocks:
             active_feature: true
           - item: 1000 material items for Bill-of-Materials
             active_feature: true
-          - item: Order Invoices
+          - item: 2 locations
             active_feature: true
-          - item: 2 User Licenses
+          - item: 2 user licenses
             active_feature: true
           - item: Role Permissions
             active_feature: true
@@ -75,7 +75,11 @@ content_blocks:
             active_feature: true
           - item: 15 000 material items for Bill-of-Materials
             active_feature: true
+          - item: 10 locations
+            active_feature: true
           - item: 8 User Licenses
+            active_feature: true
+          - item: order invoicing
             active_feature: true
         button:
           link: /signup
@@ -86,14 +90,12 @@ content_blocks:
     title_suffix: Questions?
     description: We believe that a good inventory management strategy is the key to growth. So we’re helping you grow your business with tools and resources that make it easy.
     FAQ:
-      - title: Is there a maximum numbers of orders I can create?
+      - title: Is there a maximum numbers of orders I can create per month?
         description: No, the prices include unlimited orders. Create to your heart's content.
       - title: Where can I find out more information?
         description: Right here on this website, or contact our support team.
       - title: Do you have pricing for Enterprise?
         description: Yes, contact our support team and we'll get you set up on our Enterprise plan.
       - title: What forms of payment do you accept?
-        description: We accept all type of online payments (e.g. credit cards, ApplePay, GooglePay or Paypal).
-      - title: In which currencies can I make payments?
-        description: All payments are in **USD**.
+        description: We accept ApplePay or GooglePay.
 ---
