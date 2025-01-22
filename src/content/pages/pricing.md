@@ -23,11 +23,13 @@ content_blocks:
         has_discount: false
         discount_price: 0
         features:
-          - item: 100 product items
+          - item: 50 product items
             active_feature: true
-          - item: 100 material items for Bill-of-Materials
+          - item: 50 material items for Bill-of-Materials
             active_feature: true
           - item: Unlimited Orders
+            active_feature: true
+          - item: 2 locations
             active_feature: true
           - item: 1 User License
             active_feature: true
@@ -50,9 +52,9 @@ content_blocks:
             active_feature: true
           - item: 500 product items
             active_feature: true
-          - item: 1000 material items for Bill-of-Materials
+          - item: 500 material items for Bill-of-Materials
             active_feature: true
-          - item: 2 locations
+          - item: 5 locations
             active_feature: true
           - item: 2 user licenses
             active_feature: true
@@ -73,7 +75,7 @@ content_blocks:
             active_feature: true
           - item: 5 000 product items
             active_feature: true
-          - item: 15 000 material items for Bill-of-Materials
+          - item: 5 000 material items for Bill-of-Materials
             active_feature: true
           - item: 10 locations
             active_feature: true
