@@ -26,7 +26,7 @@ export default function GlobalFeature(block) {
               <div className="Learn-more">
               <div className="Row" style={{padding: "0rem", display:"flex"}}>
               <div className="p-3 float-left">
-                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
+                <a href="https://play.google.com/store/apps/details?id=com.flipinventory.app" target="_blank" rel="noreferrer">
                   <img src="/images/google-play-badge.svg" width="170" height="auto" alt="PlayStore Logo"></img>
                 </a>
               </div>
@@ -57,7 +57,7 @@ export default function GlobalFeature(block) {
               <div className="Learn-more">
               <div className="Row" style={{padding: "0rem", display:"flex"}}>
               <div className="p-3 float-left">
-                <a href="https://flipinventory.app/" target="_blank" rel="noreferrer">
+                <a href="https://play.google.com/store/apps/details?id=com.flipinventory.app" target="_blank" rel="noreferrer">
                   <img src="/images/google-play-badge.svg" width="170" height="auto" alt="PlayStore Logo"></img>
                 </a>
               </div>
